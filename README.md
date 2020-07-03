@@ -1,1 +1,1 @@
-# gmall
+# gmall 本地仓库版本
